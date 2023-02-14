@@ -1,6 +1,6 @@
 # Capstone
 
-Link to notebook: https://github.com/yellgrass/Capstone 
+Link to notebook: https://github.com/yellgrass/Capstone/blob/main/Capstone%20.ipynb
 
 Findings Summary:
 

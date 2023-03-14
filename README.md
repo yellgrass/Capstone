@@ -11,7 +11,7 @@ The objective of this task will be to determine what types of cancer patients su
 This study will give an insight into what features of patients result in either a higher or lower survival time, potentially indicating what aspects of cancer are more dangerous or what treatments are most effective. This type of study could help guide future research into cancer research or patient prioritization. 
 
 #### Research Question
-How well can patient survival be accurately determined by features of patients with cancer and their treatments?
+How well can patient survival be determined by features of patients with cancer and their treatments?
 
 #### Data Sources
 SEER Registry Data (https://seer.cancer.gov/)
